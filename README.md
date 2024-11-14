@@ -33,6 +33,7 @@ sudo apt install code
 ```
 Modification local 1 
 Modification remote 1
+Remote 3'
 ```
 
 
@@ -43,6 +44,7 @@ Voici les étapes à suivre pour déployer en production :
 ```
 Modification local 2
 Modification remote 2
+Remote 3
 ```
 
 ## Technologies :
