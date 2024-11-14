@@ -46,6 +46,7 @@ Voici les étapes à suivre pour déployer en production :
 Modification local 2
 Modification remote 2
 Remote 3
+Local 3
 ```
 
 ## Technologies :
