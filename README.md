@@ -34,6 +34,7 @@ sudo apt install code
 Modification local 1 
 Modification remote 1
 Remote 3'
+Local 3'
 ```
 
 
