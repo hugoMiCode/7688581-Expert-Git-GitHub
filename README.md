@@ -31,7 +31,7 @@ sudo apt install code
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+Modification remote 1
 ```
 
 
@@ -40,7 +40,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+Modification remote 2
 ```
 
 ## Technologies :
